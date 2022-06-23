@@ -42,5 +42,4 @@ In this repository, you can be finding the Pre-Boot Camp Exercises
 - Here are all the Exercises about Airplane Challenge, Ninja Challenge, and  Ninja Man. 
 
 ------
-## Thank you 
 ### Fatimah Asiri
