@@ -32,9 +32,9 @@ In this repository, you can be finding the Pre-Boot Camp Exercises
 
 ----
 ### 5. Ninja Man <a name="Man"></a> 
--In this Exercise.
--A ninja man, Is must eat all kinds of sushi without being caught by the bluly.
--If the ninja man was caught appearing in the alert window ("You died...")
+- In this Exercise.
+- A ninja man, Is must eat all kinds of sushi without being caught by the bluly.
+- If the ninja man was caught appearing in the alert window ("You died...")
 - And the Second alert window for score ("Your total score: ") also has a level.
 
 ------
